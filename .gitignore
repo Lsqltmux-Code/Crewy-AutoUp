@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.env
+auto-update.log
+premiumuser.json
+owneruser.json
+Tools/groupmode.json
+Tools/mode.json
